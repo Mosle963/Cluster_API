@@ -1,4 +1,4 @@
-
+- Under Development-
 Objective: Handles Machine learning model operations (predict, train)
 
 Methodology: Employing Django REST framework to create a REST API with the     
@@ -13,3 +13,8 @@ following endpoints:
   -  Delete Record: Delete a training record and its relevant models.
   
   -  Change Model: Change the model used for predictions in subsequent requests.
+
+to do:
+  - add tests to new views
+  - add authorization and authentication
+  - deploy
