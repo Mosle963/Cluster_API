@@ -1,4 +1,5 @@
-- Under Development-
+**Under Development**
+
 Objective: Handles Machine learning model operations (predict, train)
 
 Methodology: Employing Django REST framework to create a REST API with the     
